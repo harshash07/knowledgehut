@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hut{
+    display: flex;
+    
+}
+.wel{
+    display: flex;
+}
+.wel img{
+    width: 20px;
+}
+.forget{
+    display: flex;
+    justify-content: space-around;
+}
+.forget a{
+  text-decoration: none;
+}
+.bottom{
+    text-align: center;
+}
+.right{
+    background: url(images/4.jpeg);
+    width:50%;
+}
+.right img{
+    width: 600px;
+    margin-left: 60px;
+}
+.right h2, .right p{
+    color: #fff;
+    text-align: center;
+}
+.right h2{
+    margin-top: 60px;
+    font-size: 30px;
+}
+.left{
+    width: 50%;
+    margin: 30px 0px 30px 40px;
+}
+.head{
+    margin: 50px 40px;
+}
+.wel{
+  margin: 0 40px ;
+}
+.title{
+    margin: 0 43px;
+}
+.left input{
+    margin: 10px 40px;
+    padding: 10px 60px;
+}
+.forget button{
+    margin-left: 100px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: #fff;
+    background-color:#000;
+}
+.forget i{
+    color: green;
+    margin-left: 10px;
+}
+.bottom p{
+    margin-top: 40px;
+}
+.bottom i{
+    margin: 40px 20px;
+}
