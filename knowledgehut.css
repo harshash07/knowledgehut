@@ -29,35 +29,35 @@
 }
 .right img{
     width: 600px;
-    margin-left: 60px;
+    padding-left: 60px;
 }
 .right h2, .right p{
     color: #fff;
     text-align: center;
 }
 .right h2{
-    margin-top: 60px;
+    padding-top: 60px;
     font-size: 30px;
 }
 .left{
     width: 50%;
-    margin: 30px 0px 30px 40px;
+    padding: 30px 0px 30px 40px;
 }
 .head{
-    margin: 50px 40px;
+    padding: 50px 40px;
 }
 .wel{
-  margin: 0 40px ;
+  padding: 0 40px ;
 }
 .title{
-    margin: 0 43px;
+    padding: 0 43px;
 }
 .left input{
-    margin: 10px 40px;
-    padding: 10px 60px;
+    margin:  10px 40px;
+    padding: 20px 80px;
 }
 .forget button{
-    margin-left: 100px;
+    padding-left: 100px;
     padding: 20px 30px;
     border-radius: 5px;
     color: #fff;
@@ -65,11 +65,14 @@
 }
 .forget i{
     color: green;
-    margin-left: 10px;
+    padding-left: 10px;
 }
 .bottom p{
-    margin-top: 40px;
+    padding-top: 40px;
 }
 .bottom i{
-    margin: 40px 20px;
+    padding: 40px 20px;
+}
+.left label{
+    font-size: 20px;
 }
